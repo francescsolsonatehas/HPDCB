@@ -1,8 +1,8 @@
 # Summary
 
 # About this book
-- [About](./README.md)
-- [Contribution](./CONTRIBUTING.md)
+- [About](./tree/main/src/README.md)
+- [Contribution](./tree/main/src/CONTRIBUTING.md)
 
 # Sessions
 - [Session 1 & 2 - Introduction to Cloud Computing + Github Pages](./tree/main/src/session1-2.md)
