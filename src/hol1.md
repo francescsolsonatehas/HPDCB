@@ -94,7 +94,7 @@ To write a new blogpost, just create a new file inside the `_posts` directory **
 This website you are using right now is also hosted on Github Pages, you may have noticed alrady noticed given the URL is [https://francescsolsonatehas.github.io/HPDCB/](https://francescsolsonatehas.github.io/HPDCB/). If you take a look at the about page of the website (which is also the home page), you'll see that there is a list of all websites the students have created, I want you to share your own website there by following the steps below:
 
 
-1. Click [here](https://francescsolsonatehas.github.io/HPDCB/edit/main/src/README.md) to edit the about page of this website.
+1. Click [here](https://github.com/francescsolsonatehas/HPDCB/edit/main/src/README.md) to edit the about page of this website.
 2. You'll be asked to create a fork of the repository, do so by clicking on the "Fork this repository" button.
 4. A file will be opened, add a line at the end to include your name and a link to your personal website by following the format `[Your Name](https://your-username.github.io)`.
 5. Commit the changes by clicking on the "Commit changes.." button and then "Propose changes".
