@@ -16,7 +16,7 @@
 - [Guide 2 - Setting up AWS for each subsequent session](./tree/main/src/guide2.md)
 
 # Hands-On Labs
-- [HOL 01 - Deploying your personal website](./src/hol1.md): The goal of this hands-on activity is to introduce you to the basics of cloud computing through the deployment of a personal website using a SaaS (Software as a Service)  Additionally, you will explore and write a blog entry on a cloud application in the field of biomedicine.
+- [HOL 01 - Deploying your personal website](./tree/main/src/hol1.md): The goal of this hands-on activity is to introduce you to the basics of cloud computing through the deployment of a personal website using a SaaS (Software as a Service)  Additionally, you will explore and write a blog entry on a cloud application in the field of biomedicine.
 
 - [HOL 02 - Deploying a cloud infrastructure for researchers in AWS](./tree/main/src/hol2.md): The goal of this hands-on lab is to introduce you to the basics of cloud computing by deploying an infrastructure for researchers in AWS. It will include a private Jupyter Notebook server accessible via VPN and a public FileGator server accessible from the internet.
 
