@@ -91,7 +91,7 @@ To write a new blogpost, just create a new file inside the `_posts` directory **
 
 ## Task 4: Sharing your personal website
 
-This website you are using right now is also hosted on Github Pages, you may have noticed already noticed given the URL is [https://github.com/francescsolsonatehas/HPDCB/](https://github.com/francescsolsonatehas/HPDCB/). If you take a look at the about page of the website (which is also the home page), you'll see that there is a list of all websites the students have created, I want you to share your own website there by following the steps below:
+This website you are using right now is also hosted on Github Pages, you may have noticed already noticed given the URL is [https://github.com/francescsolsonatehas/HPDCB/src](https://github.com/francescsolsonatehas/HPDCB/src). If you take a look at the about page of the website (which is also the home page), you'll see that there is a list of all websites the students have created, I want you to share your own website there by following the steps below:
 
 
 1. Click [here](https://github.com/francescsolsonatehas/HPDCB/edit/main/src/README.md) to edit the about page of this website.
