@@ -6,9 +6,9 @@ The first two sessions' goal was to introduce you to the basics of cloud computi
 
 ## Slides
 
-The slides for the first two sessions can be found [here](./slides/Session%201%20and%202%20-%20Introduction%20to%20Cloud%20Computing%20+%20Github%20Pages.pdf) and are also available below:
+The slides for the first two sessions can be found [here](./slides/Session%201%20and%202%20-%20Introduction%20to%20Cloud%20Computing%20+%20Github%20Pages-2026.pdf) and are also available below:
 
-<iframe src="./slides/Session%201%20and%202%20-%20Introduction%20to%20Cloud%20Computing%20+%20Github%20Pages.pdf" width="100%" height="500px">
+<iframe src="./slides/Session%201%20and%202%20-%20Introduction%20to%20Cloud%20Computing%20+%20Github%20Pages-2026.pdf" width="100%" height="500px">
 </iframe>
 
 ## Recording
