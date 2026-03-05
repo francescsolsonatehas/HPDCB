@@ -2,7 +2,7 @@
 
 # About this book
 - [About](./README.md)
-- [Contribution](./CONTRIBUTING.md)
+%- [Contribution](./CONTRIBUTING.md)
 
 # Sessions
 - [Session 1 & 2 - Introduction to Cloud Computing + Github Pages](./session1-2.md)
