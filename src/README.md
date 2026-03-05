@@ -83,3 +83,5 @@ Add your name and website here!
 - [Olivia Burton](https://burtonolivia.github.io/)
 - [Maria Fernandez](https://mfb-urv.github.io)
 - [Eva Paraskevadaki](https://evaparask.github.io/)
+- [Francesc Solsona](https://francescsolsonatehas.github.io/)
+
