@@ -10,9 +10,9 @@ A [guide](./guide1.md) was created to help you set up your AWS account for the f
 
 ## Slides
 
-The slides for the third session can be found [here](./slides/Session%203%20-%20Introduction%20to%20AWS%20+%20EC2%20(v2).pdf) and are also available below:
+The slides for the third session can be found [here](./slides/Session%203%20-%20Introduction%20to%20AWS%20+%20EC2-2026.pdf) and are also available below:
 
-<iframe src="./slides/Session%203%20-%20Introduction%20to%20AWS%20+%20EC2%20(v2).pdf" width="100%" height="500px">
+<iframe src="./slides/Session%203%20-%20Introduction%20to%20AWS%20+%20EC2-2026.pdf" width="100%" height="500px">
 </iframe>
 
 ## Recording

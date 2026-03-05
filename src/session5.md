@@ -10,9 +10,9 @@ The image dataset for cell counting can be downloaded by clicking [here](./slide
 
 ## Slides
 
-The slides for the fifth session can be found [here](./slides/Session%205%20-%20AWS%20Lambda.pdf) and are also available below:
+The slides for the fifth session can be found [here](./slides/Session%205%20-%20AWS%20Lambda-2026.pdf) and are also available below:
 
-<iframe src="./slides/Session%205%20-%20AWS%20Lambda.pdf" width="100%" height="500px">
+<iframe src="./slides/Session%205%20-%20AWS%20Lambda-2026.pdf" width="100%" height="500px">
 </iframe>
 
 ## Recording

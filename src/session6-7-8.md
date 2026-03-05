@@ -8,9 +8,9 @@ Finally no Session 8 we're going to finish the VPN creation on the lab we starte
 
 ## Slides
 
-The slides for the sessions can be found [here](./slides/Session%206%20&%207%20-%20AWS%20Networking%20(v2).pdf).
+The slides for the sessions can be found [here](./slides/Session%206%20&%207%20-%20AWS%20Networking-2026.pdf).
 
-<iframe src="./slides/Session%206%20&%207%20-%20AWS%20Networking%20(v2).pdf" width="100%" height="500px">
+<iframe src="./slides/Session%206%20&%207%20-%20AWS%20Networking-2026.pdf" width="100%" height="500px">
 </iframe>
 
 ## Recording
