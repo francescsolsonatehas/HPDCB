@@ -1,10 +1,12 @@
-# Session 6, 7 and 8 - AWS Networking + 2nd Assignment
+# Session 6, 7 and 8 - AWS Networking. Hands-On Lab 2
 
 In Session 6 we are going to explore the basics of networking. Understanding how do networks work both inside AWS and in general. We'll see concepts such as what are public and private IP addresses, what is a subnet, what does a router do, etc. To put this into practice we'll work on a lab where we'll create a VPC and a couple subnets, one that can be accessed from the internet and another that can't. We'll also create a couple EC2 instances, one in each subnet, and we'll see how they can communicate with each other.
 
 During Session 7 we'll see what are VPNs and how to create one in AWS by working on top of the lab we created in Session 6.
 
 Finally no Session 8 we're going to finish the VPN creation on the lab we started on Session 7. Once that is done the 2nd assignment will be presented. More information on the second assignment can be [here](./hol2.md).
+
+[Hands-On Lab 2](./hol2.md) was introduced at the end of Session 2, the idea is to deploy a personal website using GitHub Pages. During class we went through the steps to set everything up so I suggest you take a look at the slides and the recording if you are having trouble setting up your website.
 
 ## Slides
 
