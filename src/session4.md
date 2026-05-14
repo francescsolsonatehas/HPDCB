@@ -21,7 +21,7 @@ The slides for the fourth session can be found [here](./slides/Session%204%20-%2
 The recording of the fourth session can be found on the subject's moodle with the following name (or by clicking the link):
 
  
-- [Unit 3 - Cloud computing - Session 4 - AWS CLI + S3](https://rovira.sharepoint.com/sites/A_2025-26_108780/_layouts/15/stream.aspx?id=/sites/A_2025-26_108780/Documentos%20compartidos/General/Recordings/Meeting%20in%20General-20260429_140617-Meeting%20Recording.mp4)
+- [Cloud. Session 4 (AWS CLI + S3)](https://rovira.sharepoint.com/sites/A_2025-26_108780/_layouts/15/stream.aspx?id=/sites/A_2025-26_108780/Documentos%20compartidos/General/Recordings/Meeting%20in%20General-20260429_140617-Meeting%20Recording.mp4)
 
 
 <!-- Això és un comentari en Markdown
