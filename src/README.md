@@ -52,8 +52,6 @@ Succesfully completeing [HOL 1](hol1.md) will result in you having your own pers
 Add your name and website here!
 
 - [Francesc Solsona](https://francescsolsonatehas.github.io/)
-- [Michael Eskander](https://michaeleskander.github.io/website-template/)
-
 - [Marta Meroño](https://mmerono.github.io)
 - [Clara Podaru](https://clarap-s.github.io) 
 - [Navdeep Kaur](https://gitxnav.github.io)
@@ -104,7 +102,6 @@ Add your name and website here!
 - [Víctor Gutiérrez González](https://vity-11.github.io/)
 - [Andrea Pérez Valle](https://andreaperval-gap.github.io)
 - [Marco Russo](https://www.marcusrb.com/mrussorb.github.io/)
-- [Andrea Pérez Valle](https://andreaperval-gap.github.io/)
 - [Abdoulahe Tunkara Tunkara](https://abdoulahe.github.io/)
 - [Nerea Salvador Prieto](https://nerea0.github.io/)
 - [Aina Mas Tena](https://ainamas.github.io/)
@@ -123,7 +120,6 @@ Add your name and website here!
 - [Keith Megara Osores Vicuña](https://keithov.github.io)
 - [Rajae El Gaouzi](https://rajaeelgaouzi.github.io)
 - [Joana Ros Alonso](https://traspami.github.io/)
-- [Daniela Mercedes Valencia Paredes](https://danielamercedes.github.io/).
 - [Daniela Mercedes Valencia Paredes](https://danielamercedes.github.io/DanielaMercedes/)
 - [Alec López](https://aleclnv-cell.github.io/aleclopez.github.io/)
 - [Iñigo Arriazu Garcia](https://arriazuinigo.github.io/)
